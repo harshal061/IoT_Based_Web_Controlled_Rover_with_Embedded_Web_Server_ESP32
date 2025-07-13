@@ -34,7 +34,7 @@ Users can control the vehicle’s movement (Forward, Backward, Left, Right, Stop
 ---
 
 ## User Interface (Screenshot)
-
+https://github.com/harshal061/IoT_Based_Web_Controlled_Rover_with_Embedded_Web_Server_ESP32/blob/8a73a095685791e6fd9e8443607dc8b72d5e9fce/Screenshot%202025-07-13%20225528.png
 
 
 
